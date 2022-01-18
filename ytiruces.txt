@@ -1,0 +1,276 @@
+Tryhackme resources
+	https://tryhackme.com/hacktivities
+
+
+
+OST2 Latest COurse
+	https://p.ost2.fyi/courses
+	
+	SYSTEM SECURITY
+
+	Architecture 1001: x86-64 Assembly
+	Architecture 2001: x86-64 OS Internals
+	Architecture 4001: x86-64 Intel Firmware Attack & Defense
+	Architecture 4031: x86-64 Reset Vector: coreboot
+	Architecture 4032: coreboot Hardware Hands-on
+
+	Debuggers 1011: Introductory WinDbg
+	Debuggers 1012: Introductory GDB
+	Debuggers 2011: Intermediate WinDbg
+	Debuggers 1015: Introductory Simics
+
+	Reverse Engineering 3010: Reversing C++ Binaries
+	Reverse Engineering 3201: Symbolic Analysis
+
+	Enterprise Architecture 2001: On-Premise Active Directory Security
+
+
+
+OPENSECURITYTRAINING2 (youtube)
+	The Life of Binaries
+	https://www.youtube.com/playlist?list=PLUFkSN0XLZ-n_Na6jwqopTt1Ki57vMIc3
+	Dynamic MW analysis
+	https://www.youtube.com/playlist?list=PLUFkSN0XLZ-kqYbGpY4Gt_VATd4ytQg-Z
+	RE Malware
+	https://www.youtube.com/playlist?list=PLUFkSN0XLZ-kwukmQOAgCZ08C5REoZElt
+	Rootkits
+	https://www.youtube.com/playlist?list=PLF58FB7BCB20ED11A
+
+
+
+FSU OFFENSIVE SECURITY 2014 
+	https://www.youtube.com/playlist?list=PLl2ZIjyGEWWVYUeYLTkanteQo4BPephik
+	
+
+
+ASU CSE 466 Cmptr sys security Pwn.clg
+	Lectures
+	Extended Q&A
+	https://www.youtube.com/playlist?list=PL-ymxv0nOtqrx3u1ZH3J9keH1ZgK8wJXF
+
+
+
+ASU CSE 468 Computer NW Security
+	Ziming Zhao
+	https://www.youtube.com/playlist?list=PLlMHuUdM262bBnXsKDbXsT1u3KVRMrAyK
+
+
+
+ASU CSE 469 Computer Forensics
+	Mike Mabey (almost all lec) 2019
+	https://www.youtube.com/playlist?list=PLVQ5jTk_I4JQcBuJAk8iDHaK1slkmOEa7
+	Ziming Zhao (few lectures) 2017
+	https://www.youtube.com/playlist?list=PLlMHuUdM262b3i8iEJnVtsZqYzNSsze0K
+
+
+
+Computer system security
+	MIT 6.858
+	https://www.youtube.com/playlist?list=PLA6Ht2dJt3SKN3z4S6nOvuJtesDXbly7S
+
+
+
+LIVE OVERFLOW
+	Binary Exploitation
+	https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN
+
+	CTF Write Up Walkthrough
+	https://www.youtube.com/playlist?list=PLhixgUqwRTjywPzsTYz28I-qezFOSaUYz
+
+	Web HAcking
+	https://www.youtube.com/playlist?list=PLhixgUqwRTjx2BmNF5-GddyqZcizwLLGP
+
+	Angular JS Security
+	https://www.youtube.com/playlist?list=PLhixgUqwRTjwJTIkNopKuGLk3Pm9Ri1sF
+
+	Browser Exploitation
+	https://www.youtube.com/playlist?list=PLhixgUqwRTjwufDsT1ntgOY9yjZgg5H_t
+
+	Embedded CTF
+	https://www.youtube.com/playlist?list=PLhixgUqwRTjwNaT40TqIIagv3b4_bfB7M
+
+	Haxember 2019
+	https://www.youtube.com/playlist?list=PLhixgUqwRTjzTvVyL_8H-DJBf8VT3uiu2
+
+	Dev Ops Hacking
+	https://www.youtube.com/playlist?list=PLhixgUqwRTjxtDt2ABuejRxrIFSroqyEY
+
+	Sudo Vulnerability Walkthrough
+	https://www.youtube.com/playlist?list=PLhixgUqwRTjy0gMuT4C3bmjeZjuNQyqdx
+
+	Mobile Security
+	https://www.youtube.com/playlist?list=PLhixgUqwRTjxHFDl0OykeqZ-VvnClfDpT
+
+
+
+CS 253 WEB SECURITY
+	https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
+
+
+
+Portswigger Academy
+	https://portswigger.net/web-security
+
+
+
+HACKERSPLOIT
+	Ethical Hacking & Penetration Testing Complete Set (162 maybe repeated videos) 
+	https://www.youtube.com/playlist?list=PLBf0hzazHTGOEuhPQSnq-Ej8jRyXxfYvl
+	
+	CTF Series
+	https://www.youtube.com/playlist?list=PLBf0hzazHTGOyRReqMyE-CDMWAQ5AgXO-
+
+	Malware Analysis Bootcamp
+	https://www.youtube.com/playlist?list=PLBf0hzazHTGMSlOI2HZGc08ePwut6A2Io
+
+	Recon-ng
+	https://www.youtube.com/playlist?list=PLBf0hzazHTGPP2Nbt9QwSgG8jLnQIxi42
+
+	Linux Security
+	https://www.youtube.com/playlist?list=PLBf0hzazHTGMG7fJvZoAAw-JE3WyMIOQv
+
+	Nmap Series
+	https://www.youtube.com/playlist?list=PLBf0hzazHTGM8V_3OEKhvCM9Xah3qDdIx
+
+	How to Secure DOCKER
+	https://www.youtube.com/playlist?list=PLBf0hzazHTGNv0-GVWZoveC49pIDHEHbn
+
+
+
+JOHN HAMMOND
+	Bandit : Over The Wire
+	https://www.youtube.com/playlist?list=PLBf0hzazHTGNv0-GVWZoveC49pIDHEHbn
+
+	Natas : Over The Wire
+	https://www.youtube.com/playlist?list=PL1H1sBF1VAKWM3wMCn6H5Ql6OrgIivt2V
+
+	Leviathan : Over The Wire
+	https://www.youtube.com/playlist?list=PL1H1sBF1VAKVsJ0dIDJzZw_QmO1J02YvG
+	
+	Stegnography
+	https://www.youtube.com/playlist?list=PL1H1sBF1VAKV6rTEh76pxQKgeFwme5gsT
+	
+	Forensics
+	https://www.youtube.com/playlist?list=PL1H1sBF1VAKVPNh6Q8k1fpU97vhJc_c45
+
+	PicoCTF 2017
+	https://www.youtube.com/playlist?list=PL1H1sBF1VAKVTu-v1XcJV9VVdhEEALvkY
+	
+	PicoCTF 2018
+	https://www.youtube.com/playlist?list=PL1H1sBF1VAKUoJsjh7EdaWqAWzjMvJg4n
+	
+	PicoCTF 2019
+	https://www.youtube.com/playlist?list=PL1H1sBF1VAKUmJio8DWjY0tHLwf3bl2ku
+
+	TRYHACKME walkthrough
+	https://www.youtube.com/playlist?list=PL1H1sBF1VAKUOm3WyiZ-m2Oqwku4Xp6if
+
+
+
+IPPSEC
+	UNIX CTF hackthebox walkthrough
+	
+	Easy
+	https://www.youtube.com/playlist?list=PLidcsTyj9JXJfpkDrttTdk1MNT6CDwVZF
+
+	Medium
+	https://www.youtube.com/playlist?list=PLidcsTyj9JXJKC2u55YVa5aMDBRXsawhr
+	
+	Hard
+	https://www.youtube.com/playlist?list=PLidcsTyj9JXJlmHwZScT3He3rO4ni-xwH
+	
+	Insane
+	https://www.youtube.com/playlist?list=PLidcsTyj9JXLI9mAR4MPiL19hq5lpaYNd
+
+	
+	WIN CTF hackthebox walkthrough
+	
+	Easy
+	https://www.youtube.com/playlist?list=PLidcsTyj9JXL4Jv6u9qi8TcUgsNoKKHNn
+	
+	Medium
+	https://www.youtube.com/playlist?list=PLidcsTyj9JXI9E9dT1jgXxvTOi7Pq_2c5
+	
+	Hard
+	https://www.youtube.com/playlist?list=PLidcsTyj9JXK2sdXaK5He4-Z8G0Ra-4u2
+	
+	Insane
+	https://www.youtube.com/playlist?list=PLidcsTyj9JXJSn8KxSr_-9eKEwxJJtf_x
+
+
+
+CS 161 Computer Security UCB (youtube playlists)
+	https://su20.cs161.org/
+
+
+
+Linux Security
+	Linux Security Structure & Linux Forensics (2 videos)
+	https://www.youtube.com/playlist?list=PLKp3X-578hN8736K0xoTivWxh7mg1GJqw
+
+
+
+MIT Hacker Tools 2019 (Missing Semester)
+	https://www.youtube.com/playlist?list=PLyzOVJj3bHQuiujH1lpn8cA9dsyulbYRv
+
+
+
+MIT Missing Semester IAP 2020
+	https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J
+
+
+
+OSCP Journey
+	https://www.youtube.com/playlist?list=PL9WW-prbqvGzHsGK_OqTyYWbCZjucpInV
+
+
+
+HACKADAYU
+	Antenna Basics
+	https://www.youtube.com/playlist?list=PL_tws4AXg7authztKFg5ZN5qWGtq3N_nI
+
+	Arch Assembly and RE
+	https://www.youtube.com/playlist?list=PL_tws4AXg7avNexvQxkfxfEBtvTtBi6Tu
+
+	Linux + Electronics : Rasberry Pi course
+	https://www.youtube.com/playlist?list=PL_tws4AXg7asrjU3NySIGWBAZESi2KUvY
+
+	Reverse Engineering with GHIDRA
+	https://www.youtube.com/playlist?list=PL_tws4AXg7auglkFo6ZRoWGXnWL0FHAEi
+
+
+
+Cyber Security body of Knowledge
+	https://www.youtube.com/playlist?list=PLIB_xlzWGSYYbrMvl2J83zG_ARorIbdez
+
+
+
+Intro to RE (The linux foundation)
+	https://www.youtube.com/watch?v=7v7UaMsgg_c
+
+	
+Internet Security for Beginners
+	https://www.youtube.com/playlist?list=PLoOmvuyo5UAdsi-IacgZJQF1MRw0Ee-HH
+
+Linux Essentials for Ethical Hackers(freecodecamp)
+	https://www.youtube.com/watch?v=1hvVcEhcbLM&t=26s
+
+BLACKHAT Since 2017 (V Imp)
+	https://www.youtube.com/c/BlackHatOfficialYT/playlists
+
+
+
+OWASP Devslop (talks and conf)
+	Most popular Shows
+	https://www.youtube.com/playlist?list=PLX8Jt4Z3uYHH_px3ti85nw09FsTHA0qlW
+	OWASP devslop shows
+	https://www.youtube.com/playlist?list=PLX8Jt4Z3uYHGlIQgIpSWSaxy7I63qm4PF
+
+
+
+SANS HackFest & Cyber Ranges Summit 2020
+	https://www.youtube.com/playlist?list=PLdVJWiil7RxoW8rBeKc0flY8bRuD3M68L
+
+
+
+RSA Conf later

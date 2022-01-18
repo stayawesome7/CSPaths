@@ -1,0 +1,131 @@
+PROGRAMMING LANGUAGE / MISC / SUPPORT
+
+
+FREECODECAMP.ORG
+	
+	Adruino Course
+	https://www.youtube.com/watch?v=zJ-LqeX_fLU
+
+	Intro to Serverless
+	https://www.youtube.com/watch?v=un8-zGFXEfU
+
+	Build A Linux System
+	https://www.youtube.com/watch?v=O_wcpXF5ZRY
+
+	50 Most used LINUX cmds
+	https://www.youtube.com/watch?v=ZtqBQ68cfJc&t=30s
+
+	Python Django and Google APIs - Project Tutorial
+	https://www.youtube.com/watch?v=_vCT42vDfgw&t=9s
+
+	JAVA NATIVE COURSE
+	https://www.youtube.com/watch?v=pyXnX2SEaFc&t=1990s
+
+	Async/Await JS
+	https://www.youtube.com/watch?v=ZYb_ZU8LNxs
+
+	Chrome Dev Tools COurse
+	https://www.youtube.com/watch?v=gTVpBbFWry8
+
+	Learn DOCKER- deploy NODE.JS and EXPRESS
+	https://www.youtube.com/watch?v=9zUHg7xjIqQ
+
+	AWS Basics for Beginners
+	https://www.youtube.com/watch?v=ulprqHHWlng
+
+	SQL INJECTION
+	https://www.youtube.com/watch?v=2nXOxLpeu80
+	
+	Python Microservices Web App (with React, Django, Flask)
+	https://www.youtube.com/watch?v=0iB5IPoTDts
+
+	Java Android App using REST API - Network Data in Android Course
+	https://www.youtube.com/watch?v=xPi-z3nOcn8
+
+	SPRING BOOT JAVA PostgreSQL and JWT
+	https://www.youtube.com/watch?v=5VUjP1wMqoE
+
+	License to Pentest Ethical Hacking Course For Beginners
+	https://www.youtube.com/watch?v=U_EhnbpWhUQ
+
+	Laravel PHP Framework Tutorial 
+	https://www.youtube.com/watch?v=ImtZ5yENzgE
+
+
+CS 50 Android Track
+	https://www.youtube.com/playlist?list=PLhQjrBD2T381qULidYDKP55-4u1piASC1
+
+CS 50 iOS Track
+	https://www.youtube.com/playlist?list=PLhQjrBD2T3810ZX79Xrgj8X382QaWbk_J
+
+CS50 Live
+	https://www.youtube.com/playlist?list=PLhQjrBD2T381GoWDSziZYoaK7CY9JXtWK
+
+CS164 Harvard Mobile SW Engineering
+	https://www.youtube.com/playlist?list=PLhQjrBD2T3810ZX79Xrgj8X382QaWbk_J
+
+WINDOWS INTERNALS
+	https://www.youtube.com/playlist?list=PLyXEghr1bwVFrWA8EyfXJSYUD97EO7WUM
+
+CS 282 (2014): Concurrent Java Network Programming in Android
+	https://www.youtube.com/playlist?list=PLZ9NgFYEMxp50tvT8806xllaCbd31DpDy
+
+Server Side Programming (python)
+	https://www.youtube.com/playlist?list=PL978B2CE2D788F745
+
+LXC/LXD containerisation
+	https://www.youtube.com/playlist?list=PL34sAs7_26wPfLNZ5NKoH0RKbTAWMlh2I
+
+PYTHON FOR EVERYBODY
+	P4E https://www.py4e.com/lessons
+	https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p
+
+Beautiful Soup4 (2020)
+	https://www.youtube.com/playlist?list=PLzMcBGfZo4-lSq2IDrA6vpZEV92AmQfJK
+
+Expert Python tutorials (2020)
+	https://www.youtube.com/playlist?list=PLzMcBGfZo4-kwmIcMDdXSuy_wSqtU-xDP
+
+Multi Threading tutorial
+	https://www.youtube.com/playlist?list=PLzMcBGfZo4-mL_4mo5LbOIdPV8jQ-n4ib
+
+	CS50's Web Programming with Python and JavaScript 2020
+	https://www.youtube.com/playlist?list=PLhQjrBD2T380xvFSUmToMMzERZ3qB5Ueu
+
+
+
+MISC / SUPPORT
+Troubleshooting Windows 10 and Server
+	https://www.youtube.com/playlist?list=PLsoPy7S6vUtEoLeS-2vOoGkCPDE3JyhtA
+Windows Advanced Tools and Technologies
+	https://www.youtube.com/playlist?list=PLsoPy7S6vUtFSweLzNmYc5iDxtt28mpEG
+Windows 10 Advanced concepts
+	https://www.youtube.com/playlist?list=PLsoPy7S6vUtHiKz7qoWLLGmDwNdEebYGC
+Intro to sysinternal suite (sysmon and proc mon)
+	https://www.youtube.com/watch?v=rr5CI7rakkU
+
+Intel Architecture Modern CPU
+	https://www.youtube.com/watch?v=vgPFzblBh7w
+	https://www.youtube.com/watch?v=o_WXTRS2qTY
+
+SM - What No one has told you about Privacy
+	https://www.youtube.com/playlist?list=PLoOmvuyo5UAct2bEkmuNjz-On-mj7H3Ce
+
+INTRO TO IMAGE PROCESSING
+	https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX
+
+
+ADVANCED 3G/4G CELLULAR COMN
+	https://nptel.ac.in/courses/117/104/117104099/
+
+INTERNET TECH And APPLICATIONS
+	https://www.youtube.com/playlist?list=PLvifRcqOOwF9cfLMTE-42fiBsWvBsOEkS
+
+CPYTHON INTERNALS
+	https://www.youtube.com/watch?v=jsrpXQqvdLc
+	https://www.youtube.com/watch?v=cUyMnGeZ_3c
+	https://www.youtube.com/watch?v=Ql5XYKNZCzY
+	https://www.youtube.com/watch?v=tzYhv61piNY
+	
+PYTHON is FAST oR SLOW
+	https://www.youtube.com/watch?v=IwvcwIi88IQ
